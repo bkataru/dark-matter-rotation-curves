@@ -1,6 +1,6 @@
 # Dark Matter Galactic Rotation Curve Analysis
 
-Project to analyze data of rotation rates of different galactic regions for a set of 50 galaxies. So far the analysis has been restricted to visualizing the rotation curves in order to observe the constant radial velocities at far away distances from the galactic center, which is the behavior that gave rise to the prediction of dark matter.
+Project to analyze data of rotation rates of different galactic regions for a set of 50 galaxies. So far the analysis has been restricted to visualizing the rotation curves in order to observe the approximately constant radial velocities at far away distances from the galactic center, which is the behavior that gave rise to the prediction of dark matter.
 
 ## Data
 
