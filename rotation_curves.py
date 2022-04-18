@@ -9,7 +9,7 @@ from data_extract import extract_galaxy_data
 data_path = "alldata"
 datafiles = os.listdir(data_path)
 
-plt.figure(figsize=(20, 10))
+plt.figure(figsize=(15, 10))
 
 for datafile in datafiles:
     filepath = os.path.join(data_path, datafile)

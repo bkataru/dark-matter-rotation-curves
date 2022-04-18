@@ -15,7 +15,8 @@ The plot obtained from my visualization is:
 
 ![](rotation_curves.png "The Rotation Curves Obtained from my Analysis")
 
-And the original result (located at: http://www.ioa.s.u-tokyo.ac.jp/~sofue/rotation/fig1/all-new.gif) from the research conducted on this is :
+And the original result (located at: http://www.ioa.s.u-tokyo.ac.jp/~sofue/rotation/fig1/all-new.gif) from the research conducted on this is:
+
 ![](og_result.gif "The Original Rotation Curves")
 
 
