@@ -23,6 +23,8 @@ for datafile in datafiles:
 plt.xlabel("Distance from center (kPc)")
 plt.ylabel("Radial velocity (km/s)")
 plt.title("Galactic Rotation Curves of 50 Galaxies")
+plt.xlim(0, 40)
+plt.ylim(0, 400)
 
 plt.savefig("rotation_curves.png")
 plt.show()
