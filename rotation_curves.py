@@ -9,7 +9,7 @@ from data_extract import extract_galaxy_data
 data_path = "alldata"
 datafiles = os.listdir(data_path)
 
-plt.figure(figsize=(10, 10))
+plt.figure(figsize=(20, 10))
 
 for datafile in datafiles:
     filepath = os.path.join(data_path, datafile)
@@ -23,7 +23,7 @@ for datafile in datafiles:
 plt.xlabel("Distance from center (kPc)")
 plt.ylabel("Radial velocity (km/s)")
 plt.title("Galactic Rotation Curves of 50 Galaxies")
-plt.legend()
+
+plt.savefig("rotation_curves.png")
 plt.show()
 
-plt.save("plot.png")
